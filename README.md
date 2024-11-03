@@ -1,4 +1,4 @@
-<h2 align="left">Hi, i'm ramon thalison, UFPB computer engineer student</h2>
+<h2 align="left">Hi, I'm Ramon Thalison, a computer engineering student at UFPB</h2>
 
 ###
 
